@@ -871,9 +871,7 @@ hr{
 }
 
 @media (max-width:690px){
-    .home__in{
-        border: 2px solid yellow;
-    }
+   
     .home__text h1{
         font-size: 110px;
     }
